@@ -685,4 +685,4 @@ function getConfigMock() {
     name: 'baseName',
     storeName: 'storeName'
   };
-}
+} 
